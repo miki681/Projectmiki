@@ -153,7 +153,7 @@ footer {
 
 @media (min-width: 768px) and (max-width: 1024px) {
   .grid {
-    flex-direction: row;
+    flex-direction: column;
     gap: 15px;
   }
 }
